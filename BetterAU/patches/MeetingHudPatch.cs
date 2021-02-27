@@ -11,7 +11,7 @@ namespace BetterAU.patches {
                 if (PlayerControl.LocalPlayer.Data.PlayerName == area.NameText.Text &&
                     Helper.isJester(PlayerControl.LocalPlayer.PlayerId))
                 {
-                    area.NameText.Color = new Color(.215f, .045f, .242f, 1f);
+                    area.NameText.Color = new Color(0.99f, 0.37f, 1f);
                 }
             }
         }
@@ -26,7 +26,7 @@ namespace BetterAU.patches {
                 if (PlayerControl.LocalPlayer != null)
                 {
                     if (PlayerControl.AllPlayerControls.Count > 1 && Settings.JesterList != null && Helper.isJester(PlayerControl.LocalPlayer.PlayerId))
-                        PlayerControl.LocalPlayer.nameText.Color = new Color(.215f, .045f, .242f, 1f);
+                        PlayerControl.LocalPlayer.nameText.Color = new Color(0.99f, 0.37f, 1f);
                 }
 
             }

@@ -31,9 +31,9 @@ namespace BetterAU.patches
             {
                 __instance.__this.Title.Text = "Jester";
                 __instance.__this.Title.scale /= 1.4f;
-                __instance.__this.Title.Color = new Color(.215f, .045f, .242f, 1f);
+                __instance.__this.Title.Color = new Color(0.99f, 0.37f, 1f);
                 __instance.__this.ImpostorText.Text = "Get voted out to win!";
-                __instance.__this.BackgroundBar.material.color = new Color(.215f, .045f, .242f, 1f);
+                __instance.__this.BackgroundBar.material.color = new Color(0.99f, 0.37f, 1f);
             }
         } 
     }
