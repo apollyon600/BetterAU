@@ -11,5 +11,5 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
-BetterAU/bin/*
-BetterAU/obj/*
+/BetterAU/bin/*
+/BetterAU/obj/*
