@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Program Files (x86)\Steam\steamapps\common\Among Us\BepInEx\plugins" t="Include">
+      <e p="Reactor-2020.12.9s.dll" t="Include" />
+    </e>
+    <e p="C:\Users\Apollo\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Apollo\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_BetterAU.1610963523.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Apollo\AppData\Roaming\JetBrains\Rider2020.3\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Apollo\Downloads\BetterAU\BetterAU" t="IncludeFlat">
+      <e p="BetterAU" t="IncludeRecursive">
+        <e p="BetterAU.cs" t="Include" />
+        <e p="BetterAU.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CLog.cs" t="Include" />
+        <e p="Helper.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.1" t="Include">
+              <e p="BetterAU.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="patches" t="Include">
+          <e p="EndgamePatch.cs" t="Include" />
+          <e p="ExilePatch.cs" t="Include" />
+          <e p="IntroCutscenePatch.cs" t="Include" />
+          <e p="MeetingHudPatch.cs" t="Include" />
+          <e p="PingPatch.cs" t="Include" />
+          <e p="SetInfectedPatch.cs" t="Include" />
+          <e p="TasksPatch.cs" t="Include" />
+          <e p="VersionShowerPatch.cs" t="Include" />
+        </e>
+        <e p="Settings.cs" t="Include" />
+      </e>
+      <e p="BetterAU.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
