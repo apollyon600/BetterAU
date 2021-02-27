@@ -1,1 +1,13 @@
-.idea/*
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.BetterAU.iml
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\Apollo\Downloads\BetterAU\BetterAU\.idea\.idea.BetterAU\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
